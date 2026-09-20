@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "858a20902b790b1d",
+    "id": "5d5123ecf81386c2",
     "type": "split",
     "children": [
       {
-        "id": "5ab110a0e66ff799",
+        "id": "5f89851e1e587466",
         "type": "tabs",
         "children": [
           {
-            "id": "db4b733736207ab3",
+            "id": "85493ffa700d40c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AD/L/L1/Teoria.md",
+                "file": "q7/AD/18-09-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teoria"
-            }
-          },
-          {
-            "id": "2ec3ae1f1a5f909e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD/L/L1/Respuestas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Respuestas"
+              "title": "18-09-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2f232073d48a16b1",
+    "id": "d182cf399ea6bcdf",
     "type": "split",
     "children": [
       {
-        "id": "c9aa6739b31f05ec",
+        "id": "8dc6d7d61a1b69cb",
         "type": "tabs",
         "children": [
           {
-            "id": "be04bc4b72eb5d50",
+            "id": "9ea421d19e66d646",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,7 +50,7 @@
             }
           },
           {
-            "id": "21fb7c8efb82579f",
+            "id": "07842dd452ee0b55",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,7 +67,7 @@
             }
           },
           {
-            "id": "754f470b82b518af",
+            "id": "966ca40bf50a81f8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,24 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "597e83a36dd7f717",
+    "id": "532f7b68f99ddc02",
     "type": "split",
     "children": [
       {
-        "id": "a902da037f85ec47",
+        "id": "da9ce4f1e072de22",
         "type": "tabs",
         "children": [
           {
-            "id": "b0974a98d11c2d89",
+            "id": "551bbf1fde143e12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AD/18-09-2026.md",
+                "file": "q7/AD/18-09-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +113,12 @@
             }
           },
           {
-            "id": "3bfbaf3cf97a541c",
+            "id": "d01aeb14c00cfd30",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AD/18-09-2026.md",
+                "file": "q7/AD/18-09-2026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +127,7 @@
             }
           },
           {
-            "id": "1486092e06ed0bd7",
+            "id": "b179449f67717e6f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,7 +142,7 @@
             }
           },
           {
-            "id": "589a1dd22cc1cc8f",
+            "id": "093df366fb4ad380",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -172,12 +156,12 @@
             }
           },
           {
-            "id": "74d61dff7f478c18",
+            "id": "702a79d49192b84d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AD/18-09-2026.md",
+                "file": "q7/AD/18-09-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,16 +188,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "2ec3ae1f1a5f909e",
-  "lastOpenFiles": [
-    "AD/L/L1/Teoria.md",
-    "AD/L/L1/Respuestas.md",
-    "AD/L/L1",
-    "PTI/Propostes.md",
-    "PTI",
-    "AD/T/18-09-2026.md",
-    "AD/L",
-    "AD/T",
-    "AD"
-  ]
+  "active": "9ea421d19e66d646",
+  "lastOpenFiles": []
 }
